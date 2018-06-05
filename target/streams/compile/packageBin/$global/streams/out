@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/learnakka_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloAkka.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/HelloAkka.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WhoToGreet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/WhoToGreet$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloAkka$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/HelloAkka$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	WhoToGreet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/WhoToGreet.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HelloAkka$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/HelloAkka$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/Greeter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Greeter$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/IdeaProjects/learnAkka/target/scala-2.12/classes/Greeter$$anonfun$receive$1.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
